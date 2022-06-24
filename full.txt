@@ -48,3 +48,5 @@ warn
 weather
 welcome
 ytdl
+tempchat
+scrolller
